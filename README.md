@@ -9,7 +9,6 @@ Implementar um programa em C que replique o comportamento do pipe, permitindo a 
 ## 📂 Estrutura do Projeto
 - **pipex.c**: Arquivo principal do projeto, responsável por gerenciar o fluxo do programa.
 - **utils.c**: Funções auxiliares para manipulação de strings e caminhos.
-- **error.c**: Tratamento de erros e mensagens de falha.
 - **Makefile**: Automação de compilação do programa.
 
 ## 🛠️ Execução
