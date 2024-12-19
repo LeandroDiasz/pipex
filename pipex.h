@@ -17,7 +17,7 @@
 # include <unistd.h>
 # include <stdio.h>
 # include <sys/wait.h>
-# include "../libft/libft.h"
+# include "libft/libft.h"
 
 void	error(void);
 void	execute(char *av, char **envp);
